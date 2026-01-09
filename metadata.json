@@ -1,0 +1,8 @@
+{
+  "name": " Conapi 7 Gennaio ",
+  "description": "Digital platform for generating and managing secure, QR-coded worker identification badges and construction site presence tracking with geolocation.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
